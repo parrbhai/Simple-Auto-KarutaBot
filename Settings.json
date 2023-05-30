@@ -1,18 +1,18 @@
 {
     "karuta": "646937666251915264",
-    "guildId": "Your Server ID",
+    "guildId": "951763133452648468",
     "channels": {
-        "v1": "Channel ID for DROPPING Card",
-        "v2": "Channel ID for CHECKKING Cooldown"
+        "v1": "1112974053830033428",
+        "v2": "1112974071454511115"
     },
     "owner": "216282035503890442",
-    "ACCToken": 
+    "NDAzMTQ5ODcwNDgwNzUyNjQw.Ge6ULE.E-zb37amGpueUbr4v1ZyZRvKLCsciitFlS5gcc": 
     [
 		"YOUR ACCOUNT TOKEN 1",
 		"YOUR ACCOUNT TOKEN 2"
     ],
-    "botToken": "BOT TOKEN (NOT ACCOUNT TOKEN)",
-    "webhook": "YOUR WEBHOOK URL",
+    "botToken": "MTExMjk3NzYzNjExNzk3MDk1NA.GUi_re.cuRHTtcymS3Fbn0AFeEZvvNnBjOQC36fg3aQaY",
+    "webhook": "https://discord.com/api/webhooks/1112980442312880168/W93Djf3KZSPdNryc5rltEbA_ZtuYg-rd22pxwOolI-9-ZLfuXlnFtBxbbfBInd6ogm_r",
     "wishlist": [
         "Hoshimachi Suisei"
     ]
